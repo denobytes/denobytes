@@ -19,6 +19,7 @@
 | denolandx | [![Latest version](https://deno.land/badge/denolandx/version)](https://deno.land/x/denolandx)
 | dotjs | [![Latest version](https://deno.land/badge/dotjs/version)](https://deno.land/x/dotjs)
 | freshportsq | [![Latest version](https://deno.land/badge/freshportsq/version)](https://deno.land/x/freshportsq)
+| jqlite | [![Latest version](https://deno.land/badge/jqlite/version)](https://deno.land/x/jqlite)
 | md2json | [![Latest version](https://deno.land/badge/md2json/version)](https://deno.land/x/md2json)
 | npmjsq | [![Latest version](https://deno.land/badge/npmjsq/version)](https://deno.land/x/npmjsq)
 | png2svg | [![Latest version](https://deno.land/badge/png2svg/version)](https://deno.land/x/png2svg)
