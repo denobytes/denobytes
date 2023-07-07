@@ -15,6 +15,7 @@
 
 | name | version|
 ---|---
+| biwarepl | [![Latest version](https://deno.land/badge/biwarepl/version)](https://deno.land/x/biwarepl)
 | cowasm_term | [![Latest version](https://deno.land/badge/cowasm_term/version)](https://deno.land/x/cowasm_term)
 | denolandx | [![Latest version](https://deno.land/badge/denolandx/version)](https://deno.land/x/denolandx)
 | dotjs | [![Latest version](https://deno.land/badge/dotjs/version)](https://deno.land/x/dotjs)
