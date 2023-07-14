@@ -28,6 +28,7 @@
 | prettier_deno | [![Latest version](https://deno.land/badge/prettier_deno/version)](https://deno.land/x/prettier_deno)
 | svcc | [![Latest version](https://deno.land/badge/svcc/version)](https://deno.land/x/svcc)
 | svg2swiftui | [![Latest version](https://deno.land/badge/svg2swiftui/version)](https://deno.land/x/svg2swiftui)
+| vectorartq | [![Latest version](https://deno.land/badge/vectorartq/version)](https://deno.land/x/vectorartq)
 
 
 ------------------------------------------------------------------------
