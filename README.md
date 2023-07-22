@@ -24,6 +24,7 @@
 | jqlite | [![Latest version](https://deno.land/badge/jqlite/version)](https://deno.land/x/jqlite)
 | md2json | [![Latest version](https://deno.land/badge/md2json/version)](https://deno.land/x/md2json)
 | npmjsq | [![Latest version](https://deno.land/badge/npmjsq/version)](https://deno.land/x/npmjsq)
+| pkgstatq | [![Latest version](https://deno.land/badge/pkgstatq/version)](https://deno.land/x/pkgstatq)
 | png2svg | [![Latest version](https://deno.land/badge/png2svg/version)](https://deno.land/x/png2svg)
 | prettier_deno | [![Latest version](https://deno.land/badge/prettier_deno/version)](https://deno.land/x/prettier_deno)
 | svcc | [![Latest version](https://deno.land/badge/svcc/version)](https://deno.land/x/svcc)
